@@ -49,6 +49,8 @@ TERM=linux rosrun key_teleop key_teleop.py
 rosservice call /move_base/clear_costmaps "{}"
 ```
 
+For use with above, a `door_world.geojson` file is included with information about positions of different things.
+
 ## Mapping (for reference only)
 
 To map the world, launch the mapping tools:
