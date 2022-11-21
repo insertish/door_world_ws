@@ -74,3 +74,5 @@ ls -la ~/.pal/tiago_maps/configurations
 ## Demo Video
 
 This is a video of the robot struggling to get through the "door".
+
+https://user-images.githubusercontent.com/38285861/203162071-9caabb98-d5f6-4f39-920f-da5783dbddec.mp4
